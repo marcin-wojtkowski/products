@@ -1,0 +1,24 @@
+body {
+  font-family: verdana, arial, helvetica, sans-serif;
+  margin: 0px;
+}
+
+h2{
+  margin: 0px;
+}
+
+.list_box {
+  padding-left: 10px;
+  margin-top: 30px;
+}
+
+.list_item {
+  float:left;
+  list-style-type:none;
+}
+
+#header {
+  background-color: #d0f2d6;
+  border-bottom: 1px solid blue;
+  position: static;
+}
